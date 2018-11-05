@@ -3,9 +3,9 @@ import { NgModule } from '@angular/core';
 
 const routes: Routes = [
   { path: 'pages', loadChildren: 'app/pages/pages.module#PagesModule' },
-  { path: 'auth', loadChildren: 'app/home/home.module#HomeModule' },
-  { path: '', redirectTo: 'auth', pathMatch: 'full' },
-  { path: '**', redirectTo: 'auth' },
+  { path: 'home', loadChildren: 'app/home/home.module#HomeModule' },
+  { path: '', redirectTo: 'home', pathMatch: 'full' },
+  { path: '**', redirectTo: 'home' },
 ];
 
 const config: ExtraOptions = {

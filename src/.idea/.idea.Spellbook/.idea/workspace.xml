@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b9d1945-edaf-4a55-8144-534cba089b49" name="Default Changelist" comment="" />
+    <list default="true" id="0b9d1945-edaf-4a55-8144-534cba089b49" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Spellbook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Spellbook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebUI/src/app/home/home.routing.ts" beforeDir="false" afterPath="$PROJECT_DIR$/WebUI/src/app/home/home.routing.ts" afterDir="false" />
+    </list>
     <ignored path="WebUI/.vscode/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +19,9 @@
           <entry key="project.closed" value="6" />
           <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -173,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -191,6 +193,7 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,7 +205,7 @@
     <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
     <property name="SearchEverywhereHistoryKey" value="JwtBearerOptions&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spellbook/Spellbook.csproj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebUI/node_modules" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\JetBrains Rider 2018.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
@@ -262,6 +265,7 @@
       <workItem from="1541212259955" duration="3508000" />
       <workItem from="1541354607029" duration="1316000" />
       <workItem from="1541360527024" duration="8238000" />
+      <workItem from="1541383567845" duration="680000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1540681614780</created>
@@ -302,7 +306,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59525000" />
+    <option name="totallyTimeSpent" value="60205000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -316,13 +320,13 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49566162" visible="true" weight="0.2867804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49566162" visible="true" weight="0.28997868" />
       <window_info id="Structure" order="1" sideWeight="0.5043384" side_tool="true" weight="0.33582088" />
       <window_info id="Favorites" order="2" sideWeight="0.5018868" side_tool="true" weight="0.31744966" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.24728851" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.24728851" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -751,26 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="33" column="95" selection-start-line="33" selection-start-column="91" selection-end-line="33" selection-end-column="95" />
-          <folding>
-            <marker date="1541032692227" expanded="false" signature="6:597" ph="..." />
-            <marker date="1541032692227" expanded="true" signature="618:4551" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="645:4549" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="704:767" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="990:3751" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="1279:1420" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="1462:1611" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="1676:1885" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="1910:3048" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="2142:3033" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="2193:3015" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="2240:2572" ph="/* Grab the raw value of the token, and store it as a claim so we can retrieve it again later in the request pipe ... */" />
-            <marker date="1541032692227" expanded="true" signature="2649:2941" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="2762:2915" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="3051:3381" ph="/* services.AddAuthorization(options =&gt; ... */" />
-            <marker date="1541032692227" expanded="true" signature="3939:4543" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="3999:4076" ph="{...}" />
-            <marker date="1541032692227" expanded="true" signature="4093:4152" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -778,13 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <marker date="1540682343753" expanded="false" signature="6:151" ph="..." />
-            <marker date="1540682343753" expanded="true" signature="187:1069" ph="{...}" />
-            <marker date="1540682343753" expanded="true" signature="230:1067" ph="{...}" />
-            <marker date="1540682343753" expanded="true" signature="297:1061" ph="{...}" />
-            <marker date="1540682343753" expanded="true" signature="687:864" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -792,12 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="8" column="40" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="40" />
-          <folding>
-            <marker date="1540779762337" expanded="false" signature="7:120" ph="..." />
-            <marker date="1540779762337" expanded="true" signature="167:436" ph="{...}" />
-            <marker date="1540779762337" expanded="true" signature="220:434" ph="{...}" />
-            <marker date="1540779762337" expanded="true" signature="256:428" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,12 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="8" selection-end-column="9" />
-          <folding>
-            <marker date="1541214334712" expanded="false" signature="6:69" ph="..." />
-            <marker date="1541214334712" expanded="true" signature="116:355" ph="{...}" />
-            <marker date="1541214334712" expanded="true" signature="171:353" ph="{...}" />
-            <marker date="1541214334712" expanded="true" signature="208:347" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,16 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="28" column="24" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <marker date="1540944632704" expanded="false" signature="6:128" ph="..." />
-            <marker date="1540944632704" expanded="true" signature="161:971" ph="{...}" />
-            <marker date="1540944632704" expanded="true" signature="266:969" ph="{...}" />
-            <marker date="1540944632704" expanded="true" signature="371:447" ph="{...}" />
-            <marker date="1540944632704" expanded="true" signature="550:598" ph="{...}" />
-            <marker date="1540944632704" expanded="true" signature="695:715" ph="{...}" />
-            <marker date="1540944632704" expanded="true" signature="827:847" ph="{...}" />
-            <marker date="1540944632704" expanded="true" signature="943:963" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
