@@ -1,0 +1,14 @@
+C:\Git\Spellbook\src\Spellbook\bin\Debug\netcoreapp2.1\Spellbook.deps.json
+C:\Git\Spellbook\src\Spellbook\bin\Debug\netcoreapp2.1\Spellbook.runtimeconfig.json
+C:\Git\Spellbook\src\Spellbook\bin\Debug\netcoreapp2.1\Spellbook.runtimeconfig.dev.json
+C:\Git\Spellbook\src\Spellbook\bin\Debug\netcoreapp2.1\Spellbook.dll
+C:\Git\Spellbook\src\Spellbook\bin\Debug\netcoreapp2.1\Spellbook.pdb
+C:\Git\Spellbook\src\Spellbook\obj\Debug\netcoreapp2.1\Spellbook.csprojAssemblyReference.cache
+C:\Git\Spellbook\src\Spellbook\obj\Debug\netcoreapp2.1\Spellbook.csproj.CoreCompileInputs.cache
+C:\Git\Spellbook\src\Spellbook\obj\Debug\netcoreapp2.1\Spellbook.RazorAssemblyInfo.cache
+C:\Git\Spellbook\src\Spellbook\obj\Debug\netcoreapp2.1\Spellbook.RazorAssemblyInfo.cs
+C:\Git\Spellbook\src\Spellbook\obj\Debug\netcoreapp2.1\Spellbook.AssemblyInfoInputs.cache
+C:\Git\Spellbook\src\Spellbook\obj\Debug\netcoreapp2.1\Spellbook.AssemblyInfo.cs
+C:\Git\Spellbook\src\Spellbook\obj\Debug\netcoreapp2.1\Spellbook.RazorTargetAssemblyInfo.cache
+C:\Git\Spellbook\src\Spellbook\obj\Debug\netcoreapp2.1\Spellbook.dll
+C:\Git\Spellbook\src\Spellbook\obj\Debug\netcoreapp2.1\Spellbook.pdb

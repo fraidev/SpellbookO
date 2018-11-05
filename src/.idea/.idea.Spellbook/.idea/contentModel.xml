@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Git\Spellbook\src" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Spellbook" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="AuthController.cs" t="Include" />
+          <e p="SpellController.cs" t="Include" />
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="Domains" t="Include">
+          <e p="Read" t="Include">
+            <e p="Models" t="Include">
+              <e p="SpellModel.cs" t="Include" />
+              <e p="UserModel.cs" t="Include" />
+            </e>
+            <e p="Repositories" t="Include">
+              <e p="SpellReadRepository.cs" t="Include" />
+              <e p="UserReadRepository.cs" t="Include" />
+            </e>
+          </e>
+          <e p="shared" t="Include">
+            <e p="ValueObjects" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Write" t="Include">
+            <e p="Aggregates" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="CommandHandlers" t="Include">
+              <e p="Aggregates" t="Include">
+                <e p="readme.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Commands" t="Include">
+              <e p="CreateSpell.cs" t="Include" />
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="Entities" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="EventHandlers" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="Events" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="Exceptions" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="Repositories" t="Include">
+              <e p="SpellRepository.cs" t="Include" />
+              <e p="UserRepository.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="States" t="Include">
+              <e p="readme.txt" t="Include" />
+              <e p="SpellState.cs" t="Include" />
+              <e p="UserState.cs" t="Include" />
+            </e>
+            <e p="Validators" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="Maps" t="Include">
+            <e p="Read" t="Include">
+              <e p="SpellModelMap.cs" t="Include" />
+              <e p="UserModelMap.cs" t="Include" />
+            </e>
+            <e p="Write" t="Include">
+              <e p="SpellStateMap.cs" t="Include" />
+              <e p="UserStateMap.cs" t="Include" />
+            </e>
+          </e>
+          <e p="NhibernateHelper.cs" t="Include" />
+          <e p="Persistence" t="Include">
+            <e p="UnitOfWork.cs" t="Include" />
+          </e>
+          <e p="Security" t="Include">
+            <e p="HasScopeHandler.cs" t="Include" />
+            <e p="HasScopeRequirement.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Spellbook.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Spellbook.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="Spellbook.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\Felipe Cardozo\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Felipe Cardozo\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Spellbook.-289365639.00" t="ExcludeRecursive" />
+  </component>
+</project>

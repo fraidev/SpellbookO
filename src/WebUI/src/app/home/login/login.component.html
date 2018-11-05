@@ -1,0 +1,19 @@
+  
+  <button
+    class="btn btn-primary btn-margin"
+    *ngIf="!auth.isAuthenticated()"
+    (click)="auth.login()">
+      Log In
+  </button>
+
+  <button
+    class="btn btn-primary btn-margin"
+    *ngIf="auth.isAuthenticated()"
+    (click)="auth.logout()">
+      Log Out
+  </button>
+
+  <!-- <ngx-sample-layout>
+    <nb-menu [items]="menu"></nb-menu>
+    <router-outlet></router-outlet>
+  </ngx-sample-layout> -->
